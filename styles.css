@@ -1,0 +1,102 @@
+/* CSS Reset */
+* {
+font-family: cursive;
+margin: 0;
+padding: 0;
+}
+/* Below are the styles that will appear throughout the project */
+.header-div{
+    padding: 20px;
+    background-color: red;
+    text-align: center;
+}
+.main-heading{
+    border: white 4px solid;
+    display: inline-block;
+    color: white;
+    padding: 10px;
+    border-radius: 60px;
+}
+.main-h1 {
+    color: red;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.image-div {
+    background-color: red;
+}
+.img-banner {
+    width: 100%;
+    border-bottom: 8px red solid;
+}
+.nav-links-container {
+background-color: grey;
+padding: 20px;
+text-align: center;
+}
+.nav-link {
+    color: white;
+    margin: 10%;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    color: red;
+}
+.main-text {
+    color: red !important;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 40px;
+    padding-bottom: 30px;
+}
+
+.main-paragraph {
+    font-size: 24px;
+    text-align: justify;
+    line-height: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.main-contact-div {
+    background-color: lightgray;
+    text-align: center;
+    padding: 20px;
+    font-size: 25px;
+
+}
+
+/* #contact-form {
+    background-color: orangered;
+} */
+
+.thumbnails-div {
+    margin-left: 100px;
+   
+}
+
+.img-thumbnails-div {
+    border-bottom: red solid 10px;
+    margin-bottom: 30px;
+    margin-right: 10px;
+    
+}
+
+input {
+    font-size: 30px;
+    text-align: center;
+    border: red solid 4px;
+    margin-top: 20px;
+    border-radius: 30px;
+    margin-bottom: 30px;
+}
+footer {
+    font-size: 15px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    border: 50px;
+    
+}
